@@ -21,7 +21,7 @@ public abstract class Duck {
     }
     
     public void swim(){
-    	 Log.d("DEBUG","---------- ��� ������ ���� ���.-----------------");
+    	 Log.d("DEBUG","---------- 나는 수영 오리.-----------------");
     }
     
     
